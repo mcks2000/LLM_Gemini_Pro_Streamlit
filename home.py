@@ -31,8 +31,8 @@ with st.sidebar:
 
     st.divider()
     st.markdown("""<span ><font size=1>与我联系</font></span>""", unsafe_allow_html=True)
-    "[领英](https://www.linkedin.com/in/cornellius-yudha-wijaya/)"
-    "[GitHub](https://github.com/cornelliusyudhawijaya)"
+    "[公众号](https://mp.weixin.qq.com/s/VCQrnC6mQJUIWDxXGdutag)"
+    "[GitHub](https://github.com/mcks2000/LLM_Gemini_Pro_Streamlit)"
     
     st.divider()
     
